@@ -1,0 +1,86 @@
+{
+    "home": {
+        "name": "林楠力",
+        "description": "前端工程师进阶中...",
+        "GitHubLink":"https://github.com/Linnanli"
+    },
+    "description": {
+        "title": "自我介绍",
+        "info": {
+            "name": "林楠力",
+            "age": "1994-12 (24)",
+            "phone":"18958903392",
+            "school": "温州科技职业学院(大专)",
+            "email": "845058952@qq.com"
+        }
+    },
+    "skill": {
+        "title": "技能占比",
+        "barData": [
+            {
+                "name": "javascript",
+                "scale": 0.5,
+                "bg": "#ff7676"
+            },
+            {
+                "name": "html",
+                "scale": 0.3,
+                "bg": "#ff7676"
+            },
+            {
+                "name": "css",
+                "scale": 0.3,
+                "bg": "#ff7676"
+            },
+            {
+                "name": "jQuery",
+                "scale": 0.5,
+                "bg": "#99c0ff"
+            },
+            {
+                "name": "zepto",
+                "scale": 0.5,
+                "bg": "#99c0ff"
+            },
+            {
+                "name": "vue",
+                "scale": 0.3,
+                "bg": "#99c0ff"
+            },
+            {
+                "name": "angular1.0",
+                "scale": 0.2,
+                "bg": "#99c0ff"
+            }
+        ]
+    },
+    "project": {
+        "title": "项目经历",
+        "projectData": [
+            {
+                "name": "ykgc",
+                "images":"/src/assets/img/ykgc.jpg",
+                "description":"一个为深圳大学学生开发的网址导航，收集了大部分学生常用或者难找的网站。前端使用 Vue.js 开发，后端使用 PHP 和 MySQL 搭建，用户首次访问即缓存网站数据在 LocalStorage 里面。",
+                "link":"https://cgjxb.iotone.cn"
+            },
+            {
+                "name": "2",
+                "images":"/src/assets/img/ykgc.jpg",
+                "description":"一个为深圳大学学生开发的网址导航，收集了大部分学生常用或者难找的网站。前端使用 Vue.js 开发，后端使用 PHP 和 MySQL 搭建，用户首次访问即缓存网站数据在 LocalStorage 里面。",
+                "link":"https://cgjxb.iotone.cn"
+            },
+            {
+                "name": "3",
+                "images":"/src/assets/img/ykgc.jpg",
+                "description":"一个为深圳大学学生开发的网址导航，收集了大部分学生常用或者难找的网站。前端使用 Vue.js 开发，后端使用 PHP 和 MySQL 搭建，用户首次访问即缓存网站数据在 LocalStorage 里面。",
+                "link":"https://cgjxb.iotone.cn"
+            },
+            {
+                "name": "4",
+                "images":"/src/assets/img/ykgc.jpg",
+                "description":"一个为深圳大学学生开发的网址导航，收集了大部分学生常用或者难找的网站。前端使用 Vue.js 开发，后端使用 PHP 和 MySQL 搭建，用户首次访问即缓存网站数据在 LocalStorage 里面。",
+                "link":"https://cgjxb.iotone.cn"
+            }
+        ]
+    }
+}

@@ -53,6 +53,7 @@ xhr.onprogress = function(e){
 
 ```
 npm install xxx
+
 ```
 
 * 安装模块后会自动生成 package-lock.json
@@ -63,3 +64,12 @@ npm install xxx
 
 * 如果手动修改package.json文件中已有的模块的版本,直接执行 npm install 不会安装指定新的版本,只能通过 npm install xxx@yy更新
 
+## 项目图片采用外链形式
+
+* 可以将图片存放到百度网盘中,然后将图片地址复制到配置中
+
+  * https://pan.baidu.com/s/1pLP0iVL#list/path=%2F6.images%2Fresume&parentPath=%2F6.images 
+
+## pullpage插件 实现
+
+* http://www.gbtags.com/gb/gbliblist/84.htm

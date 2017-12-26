@@ -1,6 +1,8 @@
 # resume
 
-> A Vue.js project
+基于vue+pullpage插件开发的个人简历单页。
+
+项目地址:[resume](https://linnanli.github.io/resume)
 
 ## Build Setup
 
@@ -17,5 +19,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

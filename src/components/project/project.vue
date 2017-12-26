@@ -5,7 +5,7 @@
       <div class="slider-box" ref="sliderBox">
         <div class="slider-item" v-for="val in projectData">
           <div class="project-img">
-            <!-- <img :src="val.images"> -->
+            <img :src="val.images">
           </div>
           <div class="project-des">{{val.description}}</div>
           <a class="project-path iconfont icon-lianjie" :href="val.link" target="_blank"></a>

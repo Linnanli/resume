@@ -59,25 +59,25 @@
         "projectData": [
             {
                 "name": "ykgc",
-                "images":"/src/assets/img/ykgc.jpg",
+                "images":"https://thumbnail10.baidupcs.com/thumbnail/33c9b820c7f467f52aff4b456c9e72e7?fid=812045604-250528-1096577333613713&time=1514253600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-sNM4woflDkF1HnP0LfXqxD9wpjg%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=8336489127298680341&dp-callid=0&size=c256_u256&quality=90&vuk=-&ft=video",
                 "description":"一个为深圳大学学生开发的网址导航，收集了大部分学生常用或者难找的网站。前端使用 Vue.js 开发，后端使用 PHP 和 MySQL 搭建，用户首次访问即缓存网站数据在 LocalStorage 里面。",
                 "link":"https://cgjxb.iotone.cn"
             },
             {
-                "name": "2",
-                "images":"/src/assets/img/ykgc.jpg",
+                "name": "aimingju",
+                "images":"https://thumbnail10.baidupcs.com/thumbnail/506419088566263cddfcdf3c516ae0f2?fid=812045604-250528-778944824877716&time=1514253600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-EgO7MbsnUGNB1XuyM3mxDNWvu%2Bc%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=8336650600589677078&dp-callid=0&size=c1920_u1080&quality=90&vuk=-&ft=video",
                 "description":"一个为深圳大学学生开发的网址导航，收集了大部分学生常用或者难找的网站。前端使用 Vue.js 开发，后端使用 PHP 和 MySQL 搭建，用户首次访问即缓存网站数据在 LocalStorage 里面。",
                 "link":"https://cgjxb.iotone.cn"
             },
             {
                 "name": "3",
-                "images":"/src/assets/img/ykgc.jpg",
+                "images":"https://thumbnail10.baidupcs.com/thumbnail/33c9b820c7f467f52aff4b456c9e72e7?fid=812045604-250528-1096577333613713&time=1514253600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-sNM4woflDkF1HnP0LfXqxD9wpjg%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=8336489127298680341&dp-callid=0&size=c256_u256&quality=90&vuk=-&ft=video",
                 "description":"一个为深圳大学学生开发的网址导航，收集了大部分学生常用或者难找的网站。前端使用 Vue.js 开发，后端使用 PHP 和 MySQL 搭建，用户首次访问即缓存网站数据在 LocalStorage 里面。",
                 "link":"https://cgjxb.iotone.cn"
             },
             {
                 "name": "4",
-                "images":"/src/assets/img/ykgc.jpg",
+                "images":"https://thumbnail10.baidupcs.com/thumbnail/33c9b820c7f467f52aff4b456c9e72e7?fid=812045604-250528-1096577333613713&time=1514253600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-sNM4woflDkF1HnP0LfXqxD9wpjg%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=8336489127298680341&dp-callid=0&size=c256_u256&quality=90&vuk=-&ft=video",
                 "description":"一个为深圳大学学生开发的网址导航，收集了大部分学生常用或者难找的网站。前端使用 Vue.js 开发，后端使用 PHP 和 MySQL 搭建，用户首次访问即缓存网站数据在 LocalStorage 里面。",
                 "link":"https://cgjxb.iotone.cn"
             }

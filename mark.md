@@ -49,3 +49,17 @@ xhr.onprogress = function(e){
 
 ``` 
 
+## npm5 package-lock.json
+
+```
+npm install xxx
+```
+
+* 安装模块后会自动生成 package-lock.json
+
+  * package-lock.json 记录了整个node_module文件夹的树状结构,和模块地址,重新安装的时候只需要直接下载文件即可,所以npm5 安装重新安装模块会很快.
+
+* 发布的模块不会包含 package-lock.json 文件
+
+* 如果手动修改package.json文件中已有的模块的版本,直接执行 npm install 不会安装指定新的版本,只能通过 npm install xxx@yy更新
+

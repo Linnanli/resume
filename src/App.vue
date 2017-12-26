@@ -37,7 +37,7 @@ export default {
     //模块初始化完成后延迟触发加载事件,以便显示动画
     var xhr = $.ajax({
       type: "GET",
-      url: "../static/config/init.json",
+      url: "./static/config/init.json",
       cache: true,
       success(data) {
         //初始化配置

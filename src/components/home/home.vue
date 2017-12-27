@@ -1,7 +1,7 @@
 <template>
   <div class="component-home" :class="isLoad?'load':'leave'">
     <div class="avatar">
-      <img :src="params.avatar" alt="" srcset="">
+      <img :src="params.avatar">
     </div>
     <div class="name">{{params.name}}</div>
     <div class="description">{{params.description}}</div>

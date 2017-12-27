@@ -62,8 +62,8 @@ export default {
   opacity: 0;
 }
 .avatar {
-  width: 150px;
-  height: 150px;
+  width: 129px;
+  height: 129px;
   margin-top: -60px;
   border-radius: 50%;
   /* background-color: #fff; */

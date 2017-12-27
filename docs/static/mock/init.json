@@ -1,11 +1,16 @@
 {
     "home": {
         "name": "林楠力",
-        "description": "前端工程师进阶中...",
+        "description": "前端开发进阶中...",
+        "avatar":"http://img0.ph.126.net/zXTeVA_y3sWAsNe0kp5B_g==/6632572997121131280.jpg",
         "GitHubLink":"https://github.com/Linnanli"
     },
     "description": {
         "title": "自我介绍",
+        "des":[
+            "高中接触 Web 开发和设计，上了大学正式学习前端、PHP、Node.js，大一开始在校不间断负责多个公众号、小程序的开发。目前在腾讯公司 Web 前端开发岗位实习。",
+            "高中接触 Web 开发和设计，上了大学正式学习前端、PHP、Node.js，大一开始在校不间断负责多个公众号、小程序的开发。目前在腾讯公司 Web 前端开发岗位实习。"
+        ],
         "info": {
             "name": "林楠力",
             "age": "1994-12 (24)",
@@ -19,37 +24,37 @@
         "barData": [
             {
                 "name": "javascript",
-                "scale": 0.5,
+                "number": 5,
                 "bg": "#ff7676"
             },
             {
                 "name": "html",
-                "scale": 0.3,
+                "number": 6,
                 "bg": "#ff7676"
             },
             {
                 "name": "css",
-                "scale": 0.3,
+                "number": 3,
                 "bg": "#ff7676"
             },
             {
                 "name": "jQuery",
-                "scale": 0.5,
+                "number": 7,
                 "bg": "#99c0ff"
             },
             {
                 "name": "zepto",
-                "scale": 0.5,
+                "number": 7,
                 "bg": "#99c0ff"
             },
             {
                 "name": "vue",
-                "scale": 0.3,
+                "number": 5,
                 "bg": "#99c0ff"
             },
             {
                 "name": "angular1.0",
-                "scale": 0.2,
+                "number": 4,
                 "bg": "#99c0ff"
             }
         ]

@@ -3,8 +3,7 @@
       <div class="description-box">
         <h1 class="title">{{params.title}}</h1>
         <div class="des-wrap" :class="isLoad?'load':'leave'">
-            <p>高中接触 Web 开发和设计，上了大学正式学习前端、PHP、Node.js，大一开始在校不间断负责多个公众号、小程序的开发。目前在腾讯公司 Web 前端开发岗位实习。</p>
-            <p>高中接触 Web 开发和设计，上了大学正式学习前端、PHP、Node.js，大一开始在校不间断负责多个公众号、小程序的开发。目前在腾讯公司 Web 前端开发岗位实习。</p>
+            <p v-for="val in params.des">{{val}}</p>
         </div>
         <div class="self-info" :class="isLoad?'load':'leave'">
             <p>

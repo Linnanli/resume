@@ -66,11 +66,11 @@ export default {
   height: 150px;
   margin-top: -60px;
   border-radius: 50%;
-  background-color: #fff;
+  /* background-color: #fff; */
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
   border: 5px solid #fff;
-  background-image: url("./logo.png");
-  background-size: contain;
+  /* background-image: url("./logo.png"); */
+  /* background-size: contain; */
   overflow: hidden;
 }
 .avatar img{

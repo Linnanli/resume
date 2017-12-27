@@ -22,8 +22,9 @@
             <p>
                 <i class="iconfont icon-dianhua2"></i>
                 <span class="info-text">{{params.info.phone}} 
-                    <a :href="'tel:'+params.info.phone">[call]</a>
-                    <a :href="'sms:'+params.info.phone">[sms]</a></span>
+                    <!-- <a :href="'tel:'+params.info.phone">[call]</a>
+                    <a :href="'sms:'+params.info.phone">[sms]</a> -->
+                    </span>
             </p>
             <p>
                 <i class="iconfont icon-youxiang1"></i>

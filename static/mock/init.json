@@ -1,7 +1,8 @@
 {
     "home": {
         "name": "林楠力",
-        "description": "前端工程师进阶中...",
+        "description": "前端开发进阶中...",
+        "avatar":"http://img0.ph.126.net/zXTeVA_y3sWAsNe0kp5B_g==/6632572997121131280.jpg",
         "GitHubLink":"https://github.com/Linnanli"
     },
     "description": {
@@ -19,37 +20,37 @@
         "barData": [
             {
                 "name": "javascript",
-                "scale": 0.5,
+                "number": 5,
                 "bg": "#ff7676"
             },
             {
                 "name": "html",
-                "scale": 0.3,
+                "number": 6,
                 "bg": "#ff7676"
             },
             {
                 "name": "css",
-                "scale": 0.3,
+                "number": 3,
                 "bg": "#ff7676"
             },
             {
                 "name": "jQuery",
-                "scale": 0.5,
+                "number": 7,
                 "bg": "#99c0ff"
             },
             {
                 "name": "zepto",
-                "scale": 0.5,
+                "number": 7,
                 "bg": "#99c0ff"
             },
             {
                 "name": "vue",
-                "scale": 0.3,
+                "number": 5,
                 "bg": "#99c0ff"
             },
             {
                 "name": "angular1.0",
-                "scale": 0.2,
+                "number": 4,
                 "bg": "#99c0ff"
             }
         ]

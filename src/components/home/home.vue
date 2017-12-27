@@ -1,6 +1,8 @@
 <template>
   <div class="component-home" :class="isLoad?'load':'leave'">
-    <div class="avatar"></div>
+    <div class="avatar">
+      <img :src="params.avatar" alt="" srcset="">
+    </div>
     <div class="name">{{params.name}}</div>
     <div class="description">{{params.description}}</div>
     <div class="personal-link">
@@ -69,6 +71,11 @@ export default {
   border: 5px solid #fff;
   background-image: url("./logo.png");
   background-size: contain;
+  overflow: hidden;
+}
+.avatar img{
+  width: 100%;
+  height: 100%;
 }
 .name {
   color: #444;

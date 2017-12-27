@@ -30,12 +30,20 @@ export default {
     };
   },
   created(){
-      var params = this.$root.INIT_CONFIG.skill;
+      var total = 0,
+          params = this.$root.INIT_CONFIG.skill;
+
       this.title = params.title;
       this.barData = params.barData;
+
+      this.barData.forEach((item, index) => {
+        total+=item.number;
+      });
       //计算柱状图长度
       this.barData.forEach((item, index) => {
-        item.rate = item.scale * 100 + "%";
+        // item.rate = item.scale * 100 + "%";
+        //Number((item.number/total).toFixed(2)) *1000/10 ,防止js计算小数后出现多位小数,先乘1000再除以10,最后取小数的100倍
+        item.rate = Number((item.number/total).toFixed(2)) *1000/10 +'%';
       });
   },
   methods: {

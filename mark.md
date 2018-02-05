@@ -73,3 +73,5 @@ npm install xxx
 ## pullpage插件 实现
 
 * http://www.gbtags.com/gb/gbliblist/84.htm
+
+## vs code git 使用 测试

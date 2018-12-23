@@ -3,12 +3,12 @@
     <h1 class="title">项目经历</h1>
     <div class="project-body" ref="proBody">
       <div class="slider-box" ref="sliderBox">
-        <div class="slider-item" v-for="val in projectData">
+        <div class="slider-item" v-for="(val,$index) in projectData" :key="$index">
           <div class="project-img">
             <img :src="val.images">
           </div>
           <div class="project-des">{{val.description}}</div>
-          <a class="project-path iconfont icon-lianjie" :href="val.link" target="_blank"></a>
+          <a class="project-path iconfont icon-lianjie" v-if="val.link" :href="val.link" target="_blank"></a>
         </div>
       </div>
     </div>
@@ -63,7 +63,7 @@ export default {
         this.index--;
         this.slider();
       }
-      
+
     },
     next(){
       if(this.index<this.dataLen-1){
@@ -119,6 +119,9 @@ export default {
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
+}
+.project-img{
+  overflow: hidden;
 }
 .project-img img{
   height: 144px;

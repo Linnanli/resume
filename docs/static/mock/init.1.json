@@ -59,27 +59,22 @@
         "title": "项目经历",
         "projectData": [
             {
-              "name": "kaolabill",
-              "images": "/static/source/kaolabill-home.png",
-              "description": "kaola管理后台,使用vue + element-ui开发的后台管理系统",
-              "link": "https://gitee.com/lin100/admin-kaolabill"
-            },
-            {
-              "name": "kaolabill-active",
-              "images": "/static/source/active-img.png",
-              "description": "kaola活动开发脚手架,使用webpack搭建脚手架工具，适用多页活动开发，可使用es6语法编写",
-              "link": "https://gitee.com/lin100/active-kaola"
-            },
-            {
                 "name": "ykgc",
                 "images":"http://img0.ph.126.net/JxlSjpUJx2flmqaz-8HyOQ==/6632431160121174477.jpg",
                 "description":"电动车备案登记系统,功能是登记备案电动车信息,在报警后布控车辆,并且在地图中显示出电动车的实时位置,基于anguarJs1.0+开发的单页面后台关系web应用."
+                // "link":"https://cgjxb.iotone.cn"
             },
             {
                 "name": "aimingju",
                 "images":"http://img0.ph.126.net/6iiRkq6fHtNyJ2t8-authA==/6632391577702576413.jpg",
-                "description":"爱民居,这是一款微信公众号webApp,房主可以在应用中发布租房信息,用户可以直接联系房东并下单。",
+                "description":"爱民居,这是一款微信公众号webApp,房主可以在应用中发布租房信息,用户可以直接联系房东并下单。使用vue开发。关注微信公众号‘爱民局’，点击‘我要租房’，就可查看项目效果。",
                 "link":"https://github.com/Linnanli/loveRoom"
+            },
+            {
+                "name": "zhyd",
+                "images":"http://img1.ph.126.net/AcQj1J1-UYFyggLSJLGD8w==/6632423463539778655.jpg",
+                "description":"智慧用电,是一款微信公众号webapp,页面模仿微信风格,为用户提供设备用电状态查询和实时监控,使用vue开发。代码已挂到github上,点击下面链接可以查看项目。",
+                "link":"https://github.com/Linnanli/wisdomElectricity"
             }
         ]
     }

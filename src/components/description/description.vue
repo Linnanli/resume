@@ -2,9 +2,9 @@
   <div class="component-description">
       <div class="description-box">
         <h1 class="title">{{params.title}}</h1>
-        <div class="des-wrap" :class="isLoad?'load':'leave'">
+        <!-- <div class="des-wrap" :class="isLoad?'load':'leave'">
             <p v-for="val in params.des">{{val}}</p>
-        </div>
+        </div> -->
         <div class="self-info" :class="isLoad?'load':'leave'">
             <p>
                 <i class="iconfont icon-touxiang2"></i>
@@ -20,7 +20,7 @@
             </p>
             <p>
                 <i class="iconfont icon-dianhua2"></i>
-                <span class="info-text">{{params.info.phone}} 
+                <span class="info-text">{{params.info.phone}}
                     <!-- <a :href="'tel:'+params.info.phone">[call]</a>
                     <a :href="'sms:'+params.info.phone">[sms]</a> -->
                     </span>

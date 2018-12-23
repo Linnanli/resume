@@ -61,8 +61,8 @@
             {
                 "name": "ykgc",
                 "images":"http://img0.ph.126.net/JxlSjpUJx2flmqaz-8HyOQ==/6632431160121174477.jpg",
-                "description":"电动车备案登记系统,功能是登记备案电动车信息,在报警后布控车辆,并且在地图中显示出电动车的实时位置,基于anguarJs1.0+开发的单页面后台关系web应用."
-                // "link":"https://cgjxb.iotone.cn"
+                "description":"电动车备案登记系统,功能是登记备案电动车信息,在报警后布控车辆,并且在地图中显示出电动车的实时位置,基于anguarJs1.0+开发的单页面后台关系web应用.",
+                "link":"/resume/static/source/active-img.png"
             },
             {
                 "name": "aimingju",

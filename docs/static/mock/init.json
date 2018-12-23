@@ -62,13 +62,13 @@
               "name": "kaolabill",
               "images": "/static/source/kaolabill-home.png",
               "description": "kaola管理后台,使用vue + element-ui开发的后台管理系统",
-              "link": "http://img0.ph.126.net/Dc3Pu3IYYagxlaXsWsoxBA==/6597852618938119800.png"
+              "link": "/resume/static/source/kaolabill-home.png"
             },
             {
               "name": "kaolabill-active",
               "images": "/static/source/active-img.png",
               "description": "kaola活动开发脚手架,使用webpack搭建脚手架工具，适用多页活动开发，可使用es6语法编写",
-              "link": "http://img2.ph.126.net/q1pnEKCZH1R_wY7zOnFUuA==/1792714126770764060.png"
+              "link": "/resume/static/source/active-img.png"
             },
             {
                 "name": "ykgc",
